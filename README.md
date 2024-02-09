@@ -1,1 +1,1 @@
-# FP-Binary
+FLOAT / DOUBLE バリアブルとバイナリデータの相互変換のサンプルです。
